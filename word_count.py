@@ -3,4 +3,5 @@
 #Input: We will weather the weather whatever the weather whether we like it or not
 #Output: 14
 #Input sentence
+sentence = input("Please enter any statement: ")
 #Print number of words
