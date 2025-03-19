@@ -3,4 +3,5 @@
 #Input: 143
 #Output: 000143
 #Input number
+number = input("Please enter a number from 0-1000: ")
 #Print number in six-digit format
