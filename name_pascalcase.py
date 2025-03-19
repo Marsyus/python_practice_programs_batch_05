@@ -2,3 +2,5 @@
 #Example:
 #Input: jUAn DEla CrUZ
 #Output: JuanDelaCruz
+#Input name
+#Print name in pascal casing

@@ -2,3 +2,5 @@
 #Example:
 #Input: 143
 #Output: 000143
+#Input number
+#Print number in six-digit format

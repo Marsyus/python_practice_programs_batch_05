@@ -2,3 +2,5 @@
 #Example:
 #Input: Juan Dela Cruz
 #Output: 14
+#Input name
+#Print number of characters

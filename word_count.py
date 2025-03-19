@@ -2,3 +2,5 @@
 #Example:
 #Input: We will weather the weather whatever the weather whether we like it or not
 #Output: 14
+#Input sentence
+#Print number of words

@@ -2,3 +2,5 @@
 #Example:
 #Input:         Juan Dela Cruz
 #Output: Juan Dela Cruz
+#Input name
+#Print without beginning in spaces

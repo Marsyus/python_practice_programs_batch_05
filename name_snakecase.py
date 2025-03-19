@@ -2,3 +2,5 @@
 #Example:
 #Input: jUAn DEla CrUZ
 #Output: juan_dela_cruz
+#Input name
+#Print name in snake casing

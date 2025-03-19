@@ -2,3 +2,5 @@
 #Example:
 #Input: Juan Dela Cruz
 #Output: JUAN DELA CRUZ
+#Input name
+#Print name in upper casing
