@@ -3,4 +3,5 @@
 #Input: jUAn DEla CrUZ
 #Output: JuaN deLA cRuz
 #Input name
+name = input("Please enter your full name: ")
 #Print name in reverse casing

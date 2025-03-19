@@ -3,4 +3,5 @@
 #Input: jUAn DEla CrUZ
 #Output: juan_dela_cruz
 #Input name
+name = input("Please enter your full name: ")
 #Print name in snake casing

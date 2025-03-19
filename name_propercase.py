@@ -3,4 +3,5 @@
 #Input: jUAn DEla CrUZ
 #Output: Juan Dela Cruz
 #Input name
+name = input("Please enter your full name: ")
 #Print name in proper casing

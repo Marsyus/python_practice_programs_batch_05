@@ -3,4 +3,5 @@
 #Input: Juan Dela Cruz
 #Output: 14
 #Input name
+name = input("Please enter your full name: ")
 #Print number of characters

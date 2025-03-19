@@ -3,4 +3,5 @@
 #Input:         Juan Dela Cruz
 #Output: Juan Dela Cruz
 #Input name
+name = input("Please enter your full name: ")
 #Print without beginning in spaces
