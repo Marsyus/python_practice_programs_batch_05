@@ -5,3 +5,4 @@
 #Input name
 name = input("Please enter your full name: ")
 #Print number of characters
+print(len(name))
