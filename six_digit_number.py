@@ -5,4 +5,4 @@
 #Input number
 number = input("Please enter a number from 0-1000: ")
 #Print number in six-digit format
-print(num.zfill(6))
+print(number.zfill(6))
