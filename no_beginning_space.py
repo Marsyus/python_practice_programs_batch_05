@@ -5,3 +5,4 @@
 #Input name
 name = input("Please enter your full name: ")
 #Print without beginning in spaces
+print(name.strip())
