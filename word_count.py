@@ -5,3 +5,4 @@
 #Input sentence
 sentence = input("Please enter any statement: ")
 #Print number of words
+print(len(sentence.split()))
