@@ -5,7 +5,7 @@
 #Input number
 number = input("Please enter a number from 0-1000: ")
 #Print number in six-digit format
-if 0 <= number <= 1000:
+if 0 <= int(number) <= 1000:
     print(number.zfill(6))
 else:
     print("Invalid number")
