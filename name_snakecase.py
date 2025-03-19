@@ -5,3 +5,4 @@
 #Input name
 name = input("Please enter your full name: ")
 #Print name in snake casing
+print(name.lower().replace(" ", "_"))
